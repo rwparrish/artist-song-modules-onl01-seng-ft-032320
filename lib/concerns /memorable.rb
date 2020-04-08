@@ -1,5 +1,5 @@
 module Memorable
-  binding.pry
+  
   module ClassMethods
     
   def reset_all
@@ -13,3 +13,5 @@ module Memorable
 end
 
 end
+
+
